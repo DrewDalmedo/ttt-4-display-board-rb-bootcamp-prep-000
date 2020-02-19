@@ -2,5 +2,5 @@
 # out the current state.
 
 def display_board(board)
-  h_line = "-----------"
+  line = "-----------"
 end
