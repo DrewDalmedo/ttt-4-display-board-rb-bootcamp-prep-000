@@ -3,4 +3,6 @@
 
 def display_board(board)
   line = "-----------"
+  
+  puts "#{board[0]}|#{}|#{}"
 end
