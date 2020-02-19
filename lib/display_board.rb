@@ -4,5 +4,6 @@
 def display_board(board)
   line = "-----------"
   
-  puts "#{board[0]}|#{}|#{}"
+  puts "#{board[0]}|#{board[1]}|#{board[2]}"
+  puts line
 end
